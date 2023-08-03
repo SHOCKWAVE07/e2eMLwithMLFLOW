@@ -1,7 +1,7 @@
 import os
 from box.exceptions import BoxValueError
 import yaml
-from src.e2emlProject.logging import logger
+from e2emlProject import logger
 from ensure import ensure_annotations
 from box import ConfigBox
 from pathlib import Path
