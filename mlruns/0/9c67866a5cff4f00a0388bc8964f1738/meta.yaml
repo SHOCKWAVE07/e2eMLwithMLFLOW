@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ASUS/Desktop/e2eMLwithMLFLOW/mlruns/0/9c67866a5cff4f00a0388bc8964f1738/artifacts
+end_time: 1691142401872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c67866a5cff4f00a0388bc8964f1738
+run_name: debonair-panda-236
+run_uuid: 9c67866a5cff4f00a0388bc8964f1738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691142401767
+status: 4
+tags: []
+user_id: ASUS

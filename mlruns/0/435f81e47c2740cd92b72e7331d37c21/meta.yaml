@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ASUS/Desktop/e2eMLwithMLFLOW/mlruns/0/435f81e47c2740cd92b72e7331d37c21/artifacts
+end_time: 1691142707909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 435f81e47c2740cd92b72e7331d37c21
+run_name: languid-stag-330
+run_uuid: 435f81e47c2740cd92b72e7331d37c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691142699282
+status: 3
+tags: []
+user_id: ASUS
