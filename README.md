@@ -1,4 +1,4 @@
-# e2eMLwithMLFLOW
+# Wine Quality Prediction Web App using MLflow, Docker, AWS EC2, and GitHub Actions
 
 ## workflows
 
